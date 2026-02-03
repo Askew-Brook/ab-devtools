@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "version": "1.0",
+  "components": {
+    "example-component": {
+      "name": "Example Component",
+      "files": [
+        "app/Livewire/ExampleComponent.php",
+        "resources/views/livewire/example-component.blade.php"
+      ]
+    }
+  }
+}
