@@ -18,7 +18,7 @@ Creates `resources/devtools/components.json`.
 
 ## Boost Skill
 
-After installing, run `php artisan boost:install` and select the `devtools` skill.
+After installing, run `php artisan boost:install` and select the `ab-devtools` skill.
 
 Then use: *"map this component to devtools"* or *"add the sidebar to devtools"*
 

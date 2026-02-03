@@ -1,6 +1,6 @@
 ---
-name: devtools
-description: Manages component mappings for the DevTools browser extension. Use when user says "map this component", "add to devtools", "register component", or "update component mapping". Maps HTML element IDs to source files so developers can click-to-open in their IDE.
+name: ab-devtools
+description: Manages component mappings for Askew Brook DevTools. Use when user says "map this component", "add to devtools", "register component", or "update component mapping". Maps HTML element IDs to source files.
 ---
 # DevTools Component Mapping
 
